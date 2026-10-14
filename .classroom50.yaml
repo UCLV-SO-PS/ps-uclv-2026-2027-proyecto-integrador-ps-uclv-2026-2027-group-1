@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ps-uclv-2026-2027"
+assignment: "proyecto-integrador-ps-uclv-2026-2027"
+owner:
+  username: "frankRbrt"
+  id: 223909227
+  accepted_at: "2026-10-14T15:06:49Z"
