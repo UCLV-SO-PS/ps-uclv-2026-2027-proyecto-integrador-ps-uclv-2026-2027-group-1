@@ -1,0 +1,7 @@
+# Archivos objeto
+*.o
+
+# Ejecutables
+server
+client
+
